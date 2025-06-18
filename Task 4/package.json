@@ -1,0 +1,35 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "A modern, responsive multi-page personal portfolio website with built-in interactive tools",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8000 -o",
+    "dev": "http-server -p 8000 -o -c-1",
+    "build": "echo 'No build process required for static site'"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-website",
+    "responsive",
+    "todo-app",
+    "product-showcase",
+    "html5",
+    "css3",
+    "javascript",
+    "localstorage"
+  ],
+  "author": "Chaitanya Kandregula",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/personal-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/personal-portfolio/issues"
+  },
+  "homepage": "https://github.com/yourusername/personal-portfolio#readme"
+} 
